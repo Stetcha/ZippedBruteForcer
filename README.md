@@ -10,7 +10,7 @@ A piece of program that let's a user to bruteforce password protected zipped fil
 ### Requirements:
 * python3 tqdm
 * To install:
-$ pip3 install tqdm
+- $ pip3 install tqdm
 
 ### Usage:
 - $ python3 zip_file.py
