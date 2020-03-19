@@ -13,6 +13,7 @@ A piece of program that let's a user to bruteforce password protected zipped fil
 $ pip3 install tqdm
 
 ### Usage:
+- $ python3 zip_file.py
 - [+] Zip File: files/example.zip (locate the zipped file and input it here)
 - [+] File containing wordlist: passwords.txt (wordlist of possible passwords)
 
